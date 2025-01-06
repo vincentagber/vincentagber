@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on real estate website<br>👯 I’m looking to collaborate on python automation<br>🤝 I’m looking for help with facebook automation with nextjs or python<br>🌱 I’m currently learning python<br>💬 Ask me about<br>⚡ Fun fact
+
+I’m **Vincent Agber**, an experienced Web Developer, combining technical expertise with a passion for creating responsive, user-centric, and high-performance web applications. With a strong foundation in modern web technologies like **JavaScript** and **React**, I deliver solutions that drive business growth and exceed client expectations.
+
+🌱 **I’m currently learning:** Python  
+💬 **Ask me about:** Web Development, Javascript, or Bootstrap and PHP  
+⚡ **Fun fact:** I enjoy solving complex problems with simple solutions!
+
 
 
 ## 🌐 Socials:
